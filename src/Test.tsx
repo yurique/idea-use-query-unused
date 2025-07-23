@@ -1,4 +1,5 @@
 import {useQuery} from "@tanstack/react-query";
+import {Test2} from './Test2'
 
 function Test() {
   const q = useQuery({
